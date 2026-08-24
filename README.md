@@ -129,7 +129,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 **Syed Danish Ali**
 
-- 🌐 Website: [syeddanishali.me](https://syeddanishali.me/SYED_DANISH_ALI)
+- 🌐 Website: [danishsyed-dev.github.io/SYED_DANISH_ALI](https://danishsyed-dev.github.io/SYED_DANISH_ALI/)
 - 💻 GitHub: [@danishsyed-dev](https://github.com/danishsyed-dev)
 
 ---
